@@ -190,4 +190,12 @@
 		<DATE>22/11/2013</DATE>
 		<DESCRIPTION>由於私人原因，模擬器停止更新。如造成不便，敬請原諒。</DESCRIPTION>
 	</NOTE>
+	
+	<NOTE>
+		<SIM>true</SIM>
+		<GAME>false</GAME>
+		<COLOR>0x0000FF</COLOR>
+		<DATE>23/6/2014</DATE>
+		<DESCRIPTION>由於原資料檔案無法讀取，現在把檔案轉移到別處，讀取時間可能會受影響。</DESCRIPTION>
+	</NOTE>
 </NOTES>
