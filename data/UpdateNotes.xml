@@ -196,6 +196,6 @@
 		<GAME>false</GAME>
 		<COLOR>0x0000FF</COLOR>
 		<DATE>23/6/2014</DATE>
-		<DESCRIPTION>由於原資料檔案無法讀取，現在把檔案轉移到別處，讀取時間可能會受影響。</DESCRIPTION>
+		<DESCRIPTION>由於原資料檔案無法讀取，現在把檔案轉移到別處，讀取速度可能會受影響。</DESCRIPTION>
 	</NOTE>
 </NOTES>
