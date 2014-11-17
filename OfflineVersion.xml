@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LATEST>
-	<VERSION>1.22</VERSION>
+	<VERSION>1.23</VERSION>
 	<DESCRIPTION>- 首個離線版本</DESCRIPTION>
-	<CRITICAL>false</CRITICAL>
+	<CRITICAL>true</CRITICAL>
 </LATEST>
